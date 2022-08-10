@@ -8,7 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='https://codinie.github.io/ocean-of-sun'>
       {/* {loading ? <Loading/> : */}
         <div className="App">
           {/* <ScrollToTop /> */}
