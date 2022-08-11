@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ocean-of-sun/static/css/main.385c70de.css",
-    "main.js": "/ocean-of-sun/static/js/main.f77d42a3.js",
+    "main.css": "/ocean-of-sun/static/css/main.9172f34d.css",
+    "main.js": "/ocean-of-sun/static/js/main.1307267a.js",
     "static/js/787.a612cc1c.chunk.js": "/ocean-of-sun/static/js/787.a612cc1c.chunk.js",
     "index.html": "/ocean-of-sun/index.html",
-    "main.385c70de.css.map": "/ocean-of-sun/static/css/main.385c70de.css.map",
-    "main.f77d42a3.js.map": "/ocean-of-sun/static/js/main.f77d42a3.js.map",
+    "main.9172f34d.css.map": "/ocean-of-sun/static/css/main.9172f34d.css.map",
+    "main.1307267a.js.map": "/ocean-of-sun/static/js/main.1307267a.js.map",
     "787.a612cc1c.chunk.js.map": "/ocean-of-sun/static/js/787.a612cc1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.385c70de.css",
-    "static/js/main.f77d42a3.js"
+    "static/css/main.9172f34d.css",
+    "static/js/main.1307267a.js"
   ]
 }
